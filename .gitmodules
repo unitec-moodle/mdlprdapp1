@@ -6,3 +6,7 @@
 	path = local/boostnavigation
 	url = https://github.com/moodleuulm/moodle-local_boostnavigation
 	branch = master
+[submodule "theme/boost_var_01"]
+	path = theme/boost_var_01
+	url = https://github.com/malinz/boost_var_01
+	branch = master
