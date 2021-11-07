@@ -2,3 +2,7 @@
 	path = local/adminer
 	url = https://github.com/grabs/moodle-local_adminer
 	branch = master
+[submodule "local/boostnavigation"]
+	path = local/boostnavigation
+	url = https://github.com/moodleuulm/moodle-local_boostnavigation
+	branch = master
