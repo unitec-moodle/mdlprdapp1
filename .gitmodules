@@ -10,3 +10,7 @@
 	path = theme/boost_var_01
 	url = https://github.com/malinz/boost_var_01
 	branch = master
+[submodule "theme/classic_var_01"]
+	path = theme/classic_var_01
+	url = https://github.com/malinz/classic_var_01
+	branch = master
