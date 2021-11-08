@@ -106,3 +106,7 @@
 	path = blocks/unitec_teacher_team
 	url = https://github.com/malinz/block_unitec_teacher_team
 	branch = master
+[submodule "lib/editor/atto/plugins/echo360attoplugin"]
+	path = lib/editor/atto/plugins/echo360attoplugin
+	url = https://github.com/malinz/atto_echo360attoplugin-1.0.26
+	branch = master
