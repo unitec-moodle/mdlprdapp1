@@ -58,3 +58,7 @@
 	path = lib/editor/atto/plugins/htmlplus
 	url = https://github.com/andrewnicols/moodle-atto_htmlplus.git
 	branch = master
+[submodule "lib/editor/atto/plugins/morebackcolors"]
+	path = lib/editor/atto/plugins/morebackcolors
+	url = https://github.com/ndunand/moodle-atto_morebackcolors.git
+	branch = master
