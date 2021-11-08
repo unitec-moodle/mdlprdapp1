@@ -98,3 +98,7 @@
 	path = plagiarism/turnitin
 	url = https://github.com/turnitin/moodle-plagiarism_turnitin.git
 	branch = master
+[submodule "blocks/carousel"]
+	path = blocks/carousel
+	url = https://github.com/malinz/block_carousel
+	branch = master
