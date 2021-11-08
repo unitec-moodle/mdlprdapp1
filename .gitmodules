@@ -66,3 +66,7 @@
 	path = lib/editor/atto/plugins/morefontcolors
 	url = https://github.com/ndunand/moodle-atto_morefontcolors.git
 	branch = master
+[submodule "admin/tool/mergeusers"]
+	path = admin/tool/mergeusers
+	url = https://github.com/ndunand/moodle-tool_mergeusers.git
+	branch = master
