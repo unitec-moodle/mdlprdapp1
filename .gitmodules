@@ -82,3 +82,7 @@
 	path = course/format/onetopic
 	url = https://github.com/davidherney/moodle-format_onetopic.git
 	branch = master
+[submodule "report/assign"]
+	path = report/assign
+	url = https://github.com/thepurpleblob/moodle-report_assign.git
+	branch = master
