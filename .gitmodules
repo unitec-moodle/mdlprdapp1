@@ -14,3 +14,103 @@
 	path = theme/classic_var_01
 	url = https://github.com/malinz/classic_var_01
 	branch = master
+[submodule "mod/attendanceregister"]
+	path = mod/attendanceregister
+	url = https://github.com/CinecaElearning/moodle-mod_attendanceregister.git
+	branch = master
+[submodule "mod/checklist"]
+	path = mod/checklist
+	url = https://github.com/davosmith/moodle-checklist.git
+	branch = master
+[submodule "mod/hotpot"]
+	path = mod/hotpot
+	url = https://github.com/gbateson/moodle-mod_hotpot.git
+	branch = master
+[submodule "mod/questionnaire"]
+	path = mod/questionnaire
+	url = https://github.com/PoetOS/moodle-mod_questionnaire.git
+	branch = master
+[submodule "mod/turnitintooltwo"]
+	path = mod/turnitintooltwo
+	url = https://github.com/turnitin/moodle-mod_turnitintooltwo.git
+	branch = master
+[submodule "blocks/checklist"]
+	path = blocks/checklist
+	url = https://github.com/davosmith/moodle-block_checklist.git
+	branch = master
+[submodule "blocks/configurable_reports"]
+	path = blocks/configurable_reports
+	url = https://github.com/jleyva/moodle-block_configurablereports.git
+	branch = MOODLE_36_STABLE
+[submodule "blocks/course_contents"]
+	path = blocks/course_contents
+	url = https://github.com/mudrd8mz/moodle-block_course_contents.git
+	branch = master
+[submodule "blocks/grade_me"]
+	path = blocks/grade_me
+	url = https://github.com/remotelearner/moodle-block_grade_me.git
+	branch = MOODLE_311_STABLE
+[submodule "lib/editor/atto/plugins/fullscreen"]
+	path = lib/editor/atto/plugins/fullscreen
+	url = https://github.com/dthies/moodle-atto_fullscreen.git
+	branch = master
+[submodule "lib/editor/atto/plugins/htmlplus"]
+	path = lib/editor/atto/plugins/htmlplus
+	url = https://github.com/andrewnicols/moodle-atto_htmlplus.git
+	branch = master
+[submodule "lib/editor/atto/plugins/morebackcolors"]
+	path = lib/editor/atto/plugins/morebackcolors
+	url = https://github.com/ndunand/moodle-atto_morebackcolors.git
+	branch = master
+[submodule "lib/editor/atto/plugins/morefontcolors"]
+	path = lib/editor/atto/plugins/morefontcolors
+	url = https://github.com/ndunand/moodle-atto_morefontcolors.git
+	branch = master
+[submodule "admin/tool/mergeusers"]
+	path = admin/tool/mergeusers
+	url = https://github.com/ndunand/moodle-tool_mergeusers.git
+	branch = master
+[submodule "course/format/grid"]
+	path = course/format/grid
+	url = https://github.com/gjb2048/moodle-format_grid.git
+	branch = MOODLE_310
+[submodule "course/format/multitopic"]
+	path = course/format/multitopic
+	url = https://github.com/james-cnz/moodle-format_multitopic
+	branch = master
+[submodule "course/format/onetopic"]
+	path = course/format/onetopic
+	url = https://github.com/davidherney/moodle-format_onetopic.git
+	branch = master
+[submodule "report/assign"]
+	path = report/assign
+	url = https://github.com/thepurpleblob/moodle-report_assign.git
+	branch = master
+[submodule "report/coursesize"]
+	path = report/coursesize
+	url = https://github.com/catalyst/moodle-report_coursesize.git
+	branch = master
+[submodule "grade/export/checklist"]
+	path = grade/export/checklist
+	url = https://github.com/davosmith/moodle-grade_checklist.git
+	branch = master
+[submodule "plagiarism/turnitin"]
+	path = plagiarism/turnitin
+	url = https://github.com/turnitin/moodle-plagiarism_turnitin.git
+	branch = master
+[submodule "blocks/carousel"]
+	path = blocks/carousel
+	url = https://github.com/malinz/block_carousel
+	branch = master
+[submodule "blocks/unitec_teacher_team"]
+	path = blocks/unitec_teacher_team
+	url = https://github.com/malinz/block_unitec_teacher_team
+	branch = master
+[submodule "lib/editor/atto/plugins/echo360attoplugin"]
+	path = lib/editor/atto/plugins/echo360attoplugin
+	url = https://github.com/malinz/atto_echo360attoplugin-1.0.26
+	branch = master
+[submodule "filter/echo360"]
+	path = filter/echo360
+	url = https://github.com/malinz/filter_echo360-1.0.26
+	branch = master
