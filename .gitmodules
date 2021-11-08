@@ -102,3 +102,7 @@
 	path = blocks/carousel
 	url = https://github.com/malinz/block_carousel
 	branch = master
+[submodule "blocks/unitec_teacher_team"]
+	path = blocks/unitec_teacher_team
+	url = https://github.com/malinz/block_unitec_teacher_team
+	branch = master
