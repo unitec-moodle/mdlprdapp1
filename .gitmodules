@@ -62,3 +62,7 @@
 	path = lib/editor/atto/plugins/morebackcolors
 	url = https://github.com/ndunand/moodle-atto_morebackcolors.git
 	branch = master
+[submodule "lib/editor/atto/plugins/morefontcolors"]
+	path = lib/editor/atto/plugins/morefontcolors
+	url = https://github.com/ndunand/moodle-atto_morefontcolors.git
+	branch = master
