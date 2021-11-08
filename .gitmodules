@@ -74,3 +74,7 @@
 	path = course/format/grid
 	url = https://github.com/gjb2048/moodle-format_grid.git
 	branch = MOODLE_310
+[submodule "course/format/multitopic"]
+	path = course/format/multitopic
+	url = https://github.com/james-cnz/moodle-format_multitopic
+	branch = master
