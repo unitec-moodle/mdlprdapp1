@@ -70,3 +70,7 @@
 	path = admin/tool/mergeusers
 	url = https://github.com/ndunand/moodle-tool_mergeusers.git
 	branch = master
+[submodule "course/format/grid"]
+	path = course/format/grid
+	url = https://github.com/gjb2048/moodle-format_grid.git
+	branch = MOODLE_310
