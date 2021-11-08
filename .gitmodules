@@ -78,3 +78,7 @@
 	path = course/format/multitopic
 	url = https://github.com/james-cnz/moodle-format_multitopic
 	branch = master
+[submodule "course/format/onetopic"]
+	path = course/format/onetopic
+	url = https://github.com/davidherney/moodle-format_onetopic.git
+	branch = master
