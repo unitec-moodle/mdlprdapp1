@@ -18,3 +18,7 @@
 	path = mod/attendanceregister
 	url = https://github.com/CinecaElearning/moodle-mod_attendanceregister.git
 	branch = master
+[submodule "mod/checklist"]
+	path = mod/checklist
+	url = https://github.com/davosmith/moodle-checklist.git
+	branch = master
