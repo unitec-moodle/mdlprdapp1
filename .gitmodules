@@ -42,3 +42,7 @@
 	path = blocks/configurable_reports
 	url = https://github.com/jleyva/moodle-block_configurablereports.git
 	branch = MOODLE_36_STABLE
+[submodule "blocks/course_contents"]
+	path = blocks/course_contents
+	url = https://github.com/mudrd8mz/moodle-block_course_contents.git
+	branch = master
