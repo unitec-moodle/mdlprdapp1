@@ -86,3 +86,7 @@
 	path = report/assign
 	url = https://github.com/thepurpleblob/moodle-report_assign.git
 	branch = master
+[submodule "report/coursesize"]
+	path = report/coursesize
+	url = https://github.com/catalyst/moodle-report_coursesize.git
+	branch = master
