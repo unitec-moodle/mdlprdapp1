@@ -38,3 +38,7 @@
 	path = blocks/checklist
 	url = https://github.com/davosmith/moodle-block_checklist.git
 	branch = master
+[submodule "blocks/configurable_reports"]
+	path = blocks/configurable_reports
+	url = https://github.com/jleyva/moodle-block_configurablereports.git
+	branch = MOODLE_36_STABLE
