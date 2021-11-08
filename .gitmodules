@@ -110,3 +110,7 @@
 	path = lib/editor/atto/plugins/echo360attoplugin
 	url = https://github.com/malinz/atto_echo360attoplugin-1.0.26
 	branch = master
+[submodule "filter/echo360"]
+	path = filter/echo360
+	url = https://github.com/malinz/filter_echo360-1.0.26
+	branch = master
