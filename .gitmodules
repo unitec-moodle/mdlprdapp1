@@ -26,3 +26,7 @@
 	path = mod/hotpot
 	url = https://github.com/gbateson/moodle-mod_hotpot.git
 	branch = master
+[submodule "mod/questionnaire"]
+	path = mod/questionnaire
+	url = https://github.com/PoetOS/moodle-mod_questionnaire.git
+	branch = master
