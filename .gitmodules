@@ -50,3 +50,7 @@
 	path = blocks/grade_me
 	url = https://github.com/remotelearner/moodle-block_grade_me.git
 	branch = MOODLE_311_STABLE
+[submodule "lib/editor/atto/plugins/fullscreen"]
+	path = lib/editor/atto/plugins/fullscreen
+	url = https://github.com/dthies/moodle-atto_fullscreen.git
+	branch = master
