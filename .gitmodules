@@ -46,3 +46,7 @@
 	path = blocks/course_contents
 	url = https://github.com/mudrd8mz/moodle-block_course_contents.git
 	branch = master
+[submodule "blocks/grade_me"]
+	path = blocks/grade_me
+	url = https://github.com/remotelearner/moodle-block_grade_me.git
+	branch = MOODLE_311_STABLE
