@@ -22,3 +22,7 @@
 	path = mod/checklist
 	url = https://github.com/davosmith/moodle-checklist.git
 	branch = master
+[submodule "mod/hotpot"]
+	path = mod/hotpot
+	url = https://github.com/gbateson/moodle-mod_hotpot.git
+	branch = master
