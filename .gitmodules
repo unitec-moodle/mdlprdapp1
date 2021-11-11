@@ -114,3 +114,7 @@
 	path = filter/echo360
 	url = https://github.com/malinz/filter_echo360-1.0.26
 	branch = master
+[submodule "auth/saml2"]
+	path = auth/saml2
+	url = https://github.com/catalyst/moodle-auth_saml2.git
+	branch = MOODLE_39_STABLE
