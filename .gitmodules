@@ -118,3 +118,7 @@
 	path = auth/saml2
 	url = https://github.com/catalyst/moodle-auth_saml2.git
 	branch = MOODLE_39_STABLE
+[submodule "admin/tool/bulk_backupandrestore"]
+	path = admin/tool/bulk_backupandrestore
+	url = https://github.com/emezav/bulk_backupandrestore.git
+	branch = master
