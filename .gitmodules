@@ -122,3 +122,7 @@
 	path = admin/tool/bulk_backupandrestore
 	url = https://github.com/emezav/bulk_backupandrestore.git
 	branch = master
+[submodule "admin/tool/deletecourses"]
+	path = admin/tool/deletecourses
+	url = https://github.com/LafColITS/moodle-tool_deletecourses.git
+	branch = master
