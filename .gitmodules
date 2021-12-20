@@ -126,3 +126,7 @@
 	path = admin/tool/deletecourses
 	url = https://github.com/LafColITS/moodle-tool_deletecourses.git
 	branch = master
+[submodule "admin/tool/uploadcoursecategory"]
+	path = admin/tool/uploadcoursecategory
+	url = https://github.com/piersharding/moodle-tool_uploadcoursecategory.git
+	branch = master
