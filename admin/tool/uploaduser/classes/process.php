@@ -939,7 +939,7 @@ class process {
                 $user->lang = '';
             }
 
-            $forcechangepassword = false;
+            $forcechangepassword = true;
 
             if ($isinternalauth) {
                 if (empty($user->password)) {
@@ -963,7 +963,7 @@ class process {
                             $this->weakpasswords++;
                             $this->upt->track('password', get_string('invalidpasswordpolicy', 'error'), 'warning');
                         }
-                        $forcechangepassword = true;
+                        $forcechangepassword = false;
                     }
                     // Use a low cost factor when generating bcrypt hash otherwise
                     // hashing would be slow when uploading lots of users. Hashes
